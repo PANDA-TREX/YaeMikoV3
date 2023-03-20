@@ -61,15 +61,15 @@ global.ppulsa2 = '085749543572'
 global.psaweria = 'https://saweria.co.id/oktakc'
 global.fetch = (await import('node-fetch'))
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
-global.nomorown = '6285731947500'
+global.nomorbot = '94712954748'
+global.nomorown = '94712954748'
 global.namebot = 'YaeMiko'
 global.nameown = 'Okta'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta🗿!', true]
+  ['94712954748', 'Okta🗿!', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
